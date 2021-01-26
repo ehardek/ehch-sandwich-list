@@ -11,7 +11,7 @@
 
   ## Installation 
   How does the user install the project?
-  No packages are rquired for you to install, just got to the link!
+  No packages are required for you to install, just got to the link!
   ## Usage 
   To use this application just go to the heroku link below:
   'insert heroku link'
